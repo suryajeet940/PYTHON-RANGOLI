@@ -2,7 +2,7 @@
 
 A rangoli pattern generator built with Python.
 
-![Rangoli Output](rangoli.png)
+![Rangoli Output](python-rangoli.png)
 
 ## ✨ Features
 
